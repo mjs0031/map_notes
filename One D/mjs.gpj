@@ -1,0 +1,68 @@
+!656;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!1065;g
+%\011%u%uDataBase Algorithm%sTime Complexity%sTCSim.java
+%\011KSquare.java
+%\011%u%uDataBase Algorithm%sSimulation%sSimulator.java
+%\011%u%uDataBase Algorithm%sTheory Work%sBasicSortX.java
+%\011%u%uComp 6710%sTaxCalculatorTest.java
+%\011Minimizer.java
+%\011OneDGui.java
+%\011%u%uDataBase Algorithm%sTheory Work%sHashSelectX.java
+%\011%u%uDataBase Algorithm%sTheory Work%sTestSuite.java
+%\011OneDMap.java
+%\011%u%u%uAssembly%sProjects%sProject HW 10%stesting.cpp
+%\011SelectDistinctAlgorithm.java
+%\011playpen.java
+%\011%u%uDataBase Algorithm%sTime Complexity%sProtoTC.java
+%\011%u%uDataBase Algorithm%sTime Complexity%sBasicTC.java
+%\011%u%uDataBase Algorithm%sSimulation%sHashMethod.java
+%\011%u%uDataBase Algorithm%sSimulation%sBasicSort.java
+%\011%u%uComp 6710%sTaxCalculator.java
+%\011TestingOneD.java
+%\011%u%uDataBase Algorithm%sTime Complexity%sTimeComplexityAlgorithm.java
+%\011%u%uDataBase Algorithm%sTheory Work%sProtoSortX.java
+%\011%u%uDataBase Algorithm%sSimulation%sProtoSort.java
+%\011%u%uDataBase Algorithm%sSimulation%sSelectDistinctAlgorithm.java
+!996;f
+%	%u%uDataBase Algorithm%sTime Complexity%sTCSim.java
+%	KSquare.java
+%	%u%uDataBase Algorithm%sSimulation%sSimulator.java
+%	%u%uDataBase Algorithm%sTheory Work%sBasicSortX.java
+%	%u%uComp 6710%sTaxCalculatorTest.java
+%	Minimizer.java
+%	OneDGui.java
+%	%u%uDataBase Algorithm%sTheory Work%sHashSelectX.java
+%	%u%uDataBase Algorithm%sTheory Work%sTestSuite.java
+%	OneDMap.java
+%	%u%u%uAssembly%sProjects%sProject HW 10%stesting.cpp
+%	SelectDistinctAlgorithm.java
+%	playpen.java
+%	%u%uDataBase Algorithm%sTime Complexity%sProtoTC.java
+%	%u%uDataBase Algorithm%sTime Complexity%sBasicTC.java
+%	%u%uDataBase Algorithm%sSimulation%sHashMethod.java
+%	%u%uDataBase Algorithm%sSimulation%sBasicSort.java
+%	%u%uComp 6710%sTaxCalculator.java
+%	TestingOneD.java
+%	%u%uDataBase Algorithm%sTime Complexity%sTimeComplexityAlgorithm.java
+%	%u%uDataBase Algorithm%sTheory Work%sProtoSortX.java
+%	%u%uDataBase Algorithm%sSimulation%sProtoSort.java
+%	%u%uDataBase Algorithm%sSimulation%sSelectDistinctAlgorithm.java
+!98;l
+%\011TaxCalculatorTestTest.java
+%\011TimeComplexityAlgorithmTest.java
+%\011TaxCalculatorTest.java
+!197;t
+jgrJUnit0xr	%\011%u%uComp 6710%sTaxCalculator.java	1334599971956:P%\011%uMap Notes%sOne D%sTaxCalculatorTest.java	%\011TaxCalculatorTest.java	1334599971956:P%\011%u%uComp 6710%sTaxCalculator.java	
+!32;m
+RunSelect	APPLICATION:TestSuite
